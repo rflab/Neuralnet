@@ -1,3 +1,46 @@
+#
+Win32/
+x64/
+Debug/
+Release/
+test/
+out/
+ipch/
+neuralnet_d.exe
+neuralnet(x64)_d.exe
+*.csv
+*.zip
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.log
+*.bak
+*.wav
+*.dat
+*.mp4
+*.m2ts
+*.ts
+*.tts
+*.pes
+*.h264
+*.h265
+*.3gp
+*.3g2
+*.avi
+*.pat
+*.pmt
+*.wav
+*.es
+*.jpg
+*.test
+*.bmp
+*.ilk
+*.xml
+*.pdb
+*.db
+*.db-journal
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
@@ -31,13 +74,9 @@ $RECYCLE.BIN/
 # Thumbnails
 ._*
 
-# Files that might appear in the root of a volume
-.DocumentRevisions-V100
-.fseventsd
+# Files that might appear on external disk
 .Spotlight-V100
-.TemporaryItems
 .Trashes
-.VolumeIcon.icns
 
 # Directories potentially created on remote AFP share
 .AppleDB
